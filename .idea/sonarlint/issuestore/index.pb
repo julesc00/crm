@@ -36,3 +36,9 @@ F
 accounts/queryDemos.py,3/9/395fec71656e0d8a2e3b50011dbc0b5f94c054d7
 B
 accounts/models.py,6/1/61552fe05711cbaa3244c18deedf1d76e08d2649
+W
+'accounts/templates/accounts/delete.html,1/0/10dbaabaac96e8c8875091a19ecf3df89e7c5703
+[
++accounts/templates/accounts/order_form.html,f/9/f90c53a9859cb2aaf16ea6dbd9f7bf7d8ad8d45c
+A
+accounts/forms.py,4/2/423d51d4f9a16166c3e1046d2a92cb79899b60d0
