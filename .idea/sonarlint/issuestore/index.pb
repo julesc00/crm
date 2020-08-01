@@ -24,3 +24,15 @@ A
 accounts/views.py,b/a/ba7590f6f358542018b74d55cb2e357917bab56c
 Z
 *accounts/templates/accounts/dashboard.html,c/f/cfea44fe8c692339e4f9780a7bb66d00d87d6207
+W
+'accounts/templates/accounts/status.html,0/3/03b39baa0d91d39fe680d989ebd06a553fd32c29
+C
+static/css/main.css,1/d/1d911fa3e8e9e880e642b3cfb08a49276784f29a
+W
+'accounts/templates/accounts/navbar.html,5/f/5f10a7bbee67f7f8a3958197cad4e41b738e25c0
+A
+accounts/admin.py,a/3/a3360866a37a1817d2b7bff9b4bc78c975e3b58e
+F
+accounts/queryDemos.py,3/9/395fec71656e0d8a2e3b50011dbc0b5f94c054d7
+B
+accounts/models.py,6/1/61552fe05711cbaa3244c18deedf1d76e08d2649
