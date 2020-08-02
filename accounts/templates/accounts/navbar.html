@@ -1,5 +1,22 @@
 {% load static %}
 
+<style>
+    .hello-msg {
+        color: #fff;
+        font-size: 18px;
+        margin-right: 20px;
+        text-transform: capitalize;
+    }
+    .logout-link {
+        text-decoration: none;
+        color: #fff;
+    }
+    .logout-link:hover {
+        text-decoration: none;
+        color: #f7ba5b;
+    }
+</style>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <img src="{% static 'images/logo.png' %}" alt="">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,4 +32,8 @@
       </li>
     </ul>
   </div>
+
+    <span class="hello-msg">Hello, {{ request.user }} </span>
+    <span><a class="logout-link" href="{% url 'logout_user' %}">Logout</a></span>
+
 </nav>
